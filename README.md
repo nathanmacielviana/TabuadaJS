@@ -19,3 +19,5 @@
 📌 Funcionalidade 2: Utilizando o laço FOR, o script incrementa o texto da operação(sendo assim cada nova string sendo uma linha nova da tabuada); <br> <br>
 
 <h2 align="center">Amostra</h2>
+<img src="https://raw.githubusercontent.com/nathanmacielviana/TabuadaJS/main/scsTABU.jpg">
+
